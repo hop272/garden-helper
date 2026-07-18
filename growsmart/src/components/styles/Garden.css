@@ -1,0 +1,15 @@
+.garden-map-container {
+  width: 100%;
+  padding: 20px;
+}
+
+.leaflet-container {
+  height: 500px;
+  margin-bottom: 20px;
+}
+
+.selected-plant {
+  background-color: #f4f4f4;
+  padding: 15px;
+  border-radius: 8px;
+}
