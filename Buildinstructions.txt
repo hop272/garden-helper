@@ -1,0 +1,25 @@
+Your objective is to create a android app that runslocaly on the users machine and can be used offline.
+
+This must use supabase to store user data and for email password etc 
+
+the app should be user freindly
+
+all code must be documented and have comment lines on what it is doing 
+
+this app should use gradle 
+
+this app should have an interacive map of the users garden that the user can add their plants to and grass water features garen furniture etc.
+
+this app should instruct the user on what the different plants need done to them and when
+
+the app should use weather data to work out if it is suitable to attend to differnt things in the garden 
+
+the app should integrate an llm like function gemma that runs on the users device and has parameters confined  to questions about plants and other garden questions 
+
+the app should not be advertised as having an ai assistant built in 
+
+this app should use efficient programming languages  like rust  so the app uses a minimal amount of space on the users machine and runs efficiently
+
+
+
+
